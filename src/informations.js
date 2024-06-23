@@ -51,7 +51,6 @@ import Sworos from "./Components/Images/WhereToFindImg/Sworos.webp";
 import TabrizCarpet from "./Components/Images/WhereToFindImg/TabrizCarpet.webp";
 import Xrushovka from "./Components/Images/WhereToFindImg/Xrushovka.webp";
 import ImageInCustomerReviews from "./Components/Images/CustomCommentsImg/PersonImg.png";
-import AboutUsImage from "./Components/Images/AboutUs/aboutUs.png";
 import FaridAndFidanImage from "./Components/Images/AboutUs/FaridFidanImage.png";
 import WhiteMapIcon from "./Components/Images/ContactImages/whiteMapIcon.svg";
 import WhitecallIcon from "./Components/Images/ContactImages/whiteCallIcon.svg";
@@ -230,7 +229,6 @@ const AllInformationJS = {
     },
   },
   AboutUsInformations: {
-    aboutUsImage: AboutUsImage,
     FaridFidanImage: FaridAndFidanImage,
   },
   ContactInformations: {
